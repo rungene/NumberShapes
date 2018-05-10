@@ -1,16 +1,17 @@
 package com.robpercival.numbershapes;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
-import android.util.Log;
 import android.widget.Toast;
 
 
 public class MainActivity extends ActionBarActivity {
+
+    //https://www.udemy.com/complete-android-n-developer-course/learn/v4/t/lecture/5690012?start=0
 
     class Number {
 
